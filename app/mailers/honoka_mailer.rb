@@ -1,0 +1,2 @@
+class HonokaMailer < ApplicationMailer
+end
