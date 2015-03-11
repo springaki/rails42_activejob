@@ -32,6 +32,7 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem 'pry-rails'
 gem 'sidekiq', '~> 3.3.2'
 
 group :development, :test do
